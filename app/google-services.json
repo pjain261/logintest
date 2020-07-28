@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "904923728438",
+    "firebase_url": "https://groovy-datum-195919.firebaseio.com",
+    "project_id": "groovy-datum-195919",
+    "storage_bucket": "groovy-datum-195919.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904923728438:android:9d05088364b4015db46697",
+        "android_client_info": {
+          "package_name": "com.opencv.logintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904923728438-ukvhhvm3rpjnl5kdrko97ttl3e8ai1ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvmNXcNeM77hELQNy1mAmqS4VerFxLLs8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904923728438-ukvhhvm3rpjnl5kdrko97ttl3e8ai1ol.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
